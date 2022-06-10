@@ -1,4 +1,5 @@
 ## Hi person! Sou Bruna estudante de back-end 😉
+
 <div align="center">
   <a href="https://github.com/brunasiqueira3103">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=brunasiqueira3103&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
