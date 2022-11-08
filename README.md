@@ -1,5 +1,5 @@
 ## Fala comunidade! 
-Sou Bruna estudante de back-end em "desenvolvimento" 😉
+Sou Bruna estudante em "desenvolvimento" 😉
 
 <div align="justify">
   <a href="https://github.com/brunasiqueira3103">
