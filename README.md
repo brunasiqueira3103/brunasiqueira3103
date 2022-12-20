@@ -1,6 +1,6 @@
 ## Administradora de formação em migração para DevOps engineer.
 <h3>Sou curiosa, adoro caminhar, amo livros e o inverno.<h3/>
-<h3>Resolvo problemas.<h3/>
+
 
 <div align="justify">
   <a href="https://github.com/brunasiqueira3103">
